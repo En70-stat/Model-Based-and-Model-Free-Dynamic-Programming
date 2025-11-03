@@ -4,7 +4,7 @@ Honours Project completed to fulfill the requirements of the degree B.math honou
 
 Model-Based and Model Free Dynamic Programming
 
-Please read this as Raw version. Thanks :)
+
 
 
 HOW TO READ THE OUTPUT FILE
