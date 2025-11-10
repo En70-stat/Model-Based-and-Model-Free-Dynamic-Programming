@@ -1,4 +1,4 @@
-Please read this as Raw version. Thanks :)
+
 
 Honours Project completed to fulfill the requirements of the degree B.math honours: statistics. 
 
